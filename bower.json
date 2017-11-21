@@ -1,0 +1,19 @@
+{
+  "name": "ModularAngularJS",
+  "description": "Modular AngularJS Project",
+  "version": "1.0.0",
+  "homepage": "https://github.com/hamidgh83/ModularAngularJS",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "~1.5.3",
+    "angular-ui-router": "~0.2.13",
+    "jquery": "=2.2.3",
+    "angular-loader": "~1.5.3",
+    "angular-mocks": "~1.5.3",
+    "html5-boilerplate": "5.3.0",
+    "bootstrap": "=3.3.7",
+    "angular-css": "*",
+    "requirejs": "2.3.5",
+    "requirejs-plugins": "1.0.3"  }
+}
